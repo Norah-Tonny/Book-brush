@@ -1,3 +1,4 @@
+
 import HomeItems from "../Components/HomeItems"
 import styled from "styled-components"
 
@@ -9,6 +10,7 @@ const Home = () => {
       <HomeContainer>
         <HomeItems />
         </HomeContainer>
+>
     )
 }
 export default Home;
