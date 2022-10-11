@@ -1,3 +1,5 @@
+
+
 import styled from "styled-components"
 const FooterContainer = styled.div``
 const FooterUl = styled.ul``
@@ -13,6 +15,7 @@ const Footer = () => {
                 </FooterList>
             </FooterUl>  
         </FooterContainer>
+        
     )
 }
 export default Footer;
